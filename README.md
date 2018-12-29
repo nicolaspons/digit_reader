@@ -1,5 +1,7 @@
 # digit_reader
-Neural Network wich supposed to recognize digits with Python, TensorFlow and Keras
+Neural Network that recognizes digits with Python, TensorFlow and Keras
+
+Test evaluation accuracy : 0.9711
 
 This is a Jupyter notebook file, you can just reuse the model that has been saved.
 
