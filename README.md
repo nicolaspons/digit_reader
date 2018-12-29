@@ -1,6 +1,8 @@
 # digit_reader
 Neural Network wich supposed to recognize digits with Python, TensorFlow and Keras
 
+This is a Jupyter notebook file, you can just reuse the model that has been saved.
+
 In order to use it:
   - check that tensorflow is updated (I used the version 1.12.0)
       you can write this following command to update it "pip install --upgrade tensorflow"
